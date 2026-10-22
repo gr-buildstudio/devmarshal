@@ -1,0 +1,26 @@
+﻿DevMarshal — Freeware Licence
+Copyright © 2026 The DevMarshal authors. All rights reserved.
+
+This licence covers the DevMarshal software, its installer, its documentation and the files that come with it ("the Software"). By installing or using the Software you agree to these terms. If you do not agree, do not install or use it.
+
+1. Free use. You may install and use the Software free of charge, on any number of computers you own or control, for personal, educational or commercial work.
+
+2. Your work stays yours. Everything the Software helps you create in your own projects (code, commits, documents) belongs to you. The Software does not claim any right over it.
+
+3. Copies. You may give unmodified copies of the official installer to others, free of charge, with this licence included. You may not sell the Software, rent it, or distribute modified copies.
+
+4. Restrictions. You may not modify, decompile or reverse engineer the Software, except where the law allows it despite this restriction. You may not remove or change copyright or licence notices.
+
+5. Third-party components. The Software includes components from other authors, each under its own licence. Those licences are listed in THIRD_PARTY_NOTICES.txt, which is installed with the Software; where they grant you more rights for a component, they apply to that component.
+
+6. AI services. The Software runs AI coding tools you install and sign in to yourself (for example Codex, Claude Code, Gemini CLI or Ollama). Your use of those tools and services is governed by their own terms, and any usage or cost is between you and their provider.
+
+7. No warranty. The Software is provided "as is", without warranty of any kind, express or implied, including fitness for a particular purpose and non-infringement. Keep backups of your work.
+
+8. Limitation of liability. To the extent the law allows, the authors are not liable for any damages arising from the use of, or inability to use, the Software, including lost data or lost profits, even if advised of the possibility of such damages.
+
+9. Termination. This licence ends automatically if you break its terms. You must then stop using the Software and delete your copies.
+
+10. Changes. Future versions may come with a different licence. The licence that came with a version applies to that version.
+
+The English text of this licence is the binding one. A Hebrew translation is provided for convenience.
